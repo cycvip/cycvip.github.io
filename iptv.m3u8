@@ -38,10 +38,6 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,CGTN 中国国际电视台
 http://223.110.241.150:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
-#EXTINF:-1 ,安徽经济生活
-https://live4.ahtv.cn/jjsh1/hd/live.m3u8?_upt=4a776b461646546841
-#EXTINF:-1 ,安徽影视
-https://live4.ahtv.cn/yspd1/playlist.m3u8?_upt=98f05c2f1646546111
 #EXTINF:-1 ,安徽卫视
 http://223.110.241.150:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ
 #EXTINF:-1 ,湖南卫视
