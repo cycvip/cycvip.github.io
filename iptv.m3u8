@@ -136,6 +136,30 @@ http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 ,凤凰香港
 http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,江苏教育
+http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
+#EXTINF:-1 ,江苏城市
+http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
+#EXTINF:-1 ,江苏公共
+http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
+#EXTINF:-1 ,江苏影视
+http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
+#EXTINF:-1 ,江苏休闲体育
+http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
+#EXTINF:-1 ,江苏综艺
+http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
+#EXTINF:-1 ,江苏公共新闻
+http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221225925/index.m3u8
+#EXTINF:-1 ,南京新闻综合
+http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
+#EXTINF:-1 ,南京科教
+http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
+#EXTINF:-1 ,南京十八
+http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
+#EXTINF:-1 ,南京影视
+http://183.207.248.103/ott.js.chinamobile.com/PLTV/3/224/3221227719/index.m3u8
+#EXTINF:-1 ,南京少儿
+http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227733/index.m3u8
 #EXTINF:-1 ,黑莓动画 
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 ,哈哈炫动
@@ -192,7 +216,3 @@ http://39.134.18.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-
-
-
-
