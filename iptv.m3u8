@@ -140,19 +140,17 @@ http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
 #EXTINF:-1 ,江苏城市
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
-#EXTINF:-1 ,江苏公共
+#EXTINF:-1 ,江苏公共 新闻
 http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
 #EXTINF:-1 ,江苏影视
 http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
-#EXTINF:-1 ,江苏休闲体育
+#EXTINF:-1 ,江苏体育 休闲
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
 #EXTINF:-1 ,江苏综艺
 http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
-#EXTINF:-1 ,江苏公共新闻
-http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221225925/index.m3u8
 #EXTINF:-1 ,南京新闻综合
 http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
-#EXTINF:-1 ,南京科教
+#EXTINF:-1 ,南京教科
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
 #EXTINF:-1 ,南京十八
 http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
