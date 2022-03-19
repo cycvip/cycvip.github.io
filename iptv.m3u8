@@ -128,8 +128,6 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
 http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:-1 ,BRTV冬奥纪实
 http://223.110.241.150:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
-#EXTINF:-1 ,上海纪实人文
-http://223.110.241.150:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
 #EXTINF:-1 ,凤凰中文
 http://223.110.241.150:6610/cntv/live1/HD-2500k-1080P-fhchinese/HD-2500k-1080P-fhchinese
 #EXTINF:-1 ,凤凰资讯
@@ -184,12 +182,18 @@ http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
 http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 #EXTINF:-1 ,BRTV卡酷少儿
 http://223.110.241.150:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 ,SiTV动漫秀场
+#EXTINF:-1 ,上视动漫秀场
 http://223.110.241.150:6610/gitv/live1/G_DONGMANXC/G_DONGMANXC
-#EXTINF:-1 ,SiTV全纪实
+#EXTINF:-1 ,上视游戏风云
+http://223.110.241.150:6610/gitv/live1/G_YOUXIFY/G_YOUXIFY
+#EXTINF:-1 ,上视纪实人文
+http://223.110.241.150:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+#EXTINF:-1 ,上视全纪实
 http://223.110.241.150:6610/gitv/live1/G_QUANJISHI/G_QUANJISHI
-#EXTINF:-1 ,SiTV都市剧场
+#EXTINF:-1 ,上视都市剧场
 http://223.110.241.150:6610/gitv/live1/G_DUSHIJC/G_DUSHIJC
+#EXTINF:-1 ,上视生活时尚
+http://223.110.241.150:6610/gitv/live1/G_SHENGHUOSS/G_SHENGHUOSS
 #EXTINF:-1 ,黑莓电影
 http://223.110.241.150:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1 ,NewTV精品纪录
