@@ -228,6 +228,10 @@ http://223.110.241.150:6610/cntv/live1/jdaju/jdaju
 http://223.110.241.150:6610/cntv/live1/guzhuangjc/guzhuangjc
 #EXTINF:-1 ,NewTV精品综合
 http://223.110.241.150:6610/cntv/live1/mingxingdp/mingxingdp
+#EXTINF:-1 ,精品剧场
+http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
+#EXTINF:-1 ,精品电影
+http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 ,CHC高清电影
 http://39.134.18.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 ,CHC家庭影院
@@ -246,10 +250,9 @@ http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index
 http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV 4K
 http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,欢笑剧场 4K
+http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 ,真4K
 http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 ,4K UHD
 http://39.134.71.75/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-
-
-
