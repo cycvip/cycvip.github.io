@@ -194,8 +194,6 @@ http://223.110.241.150:6610/gitv/live1/G_QUANJISHI/G_QUANJISHI
 http://223.110.241.150:6610/gitv/live1/G_DUSHIJC/G_DUSHIJC
 #EXTINF:-1 ,上视生活时尚
 http://223.110.241.150:6610/gitv/live1/G_SHENGHUOSS/G_SHENGHUOSS
-#EXTINF:-1 ,黑莓电影
-http://223.110.241.150:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1 ,NewTV精品纪录
 http://223.110.241.150:6610/cntv/live1/n-jingpinjl/n-jingpinjl
 #EXTINF:-1 ,NewTV农业致富
@@ -232,6 +230,8 @@ http://223.110.241.150:6610/cntv/live1/mingxingdp/mingxingdp
 http://223.110.236.17/ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
 #EXTINF:-1 ,精品电影
 http://223.110.236.16/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 ,黑莓电影
+http://223.110.241.150:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1 ,CHC高清电影
 http://39.134.18.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 ,CHC家庭影院
