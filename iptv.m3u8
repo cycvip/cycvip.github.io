@@ -98,7 +98,7 @@ http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 ,云南卫视
 http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 ,大湾区卫视
 http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/
 #EXTINF:-1 ,延边卫视
 http://223.110.241.204:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
@@ -232,3 +232,7 @@ http://39.134.18.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 ,4K UHD
+http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
+
+
