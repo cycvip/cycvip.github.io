@@ -232,15 +232,41 @@ http://39.134.18.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 #EXTINF:-1 ,CHC动作电影
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 ,CCTV4K 超高清
-http://223.110.244.68/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
+#EXTINF:-1 ,CCTV 电视指南
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
+#EXTINF:-1 ,CCTV 风云足球
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+#EXTINF:-1 ,CCTV 高尔夫 网球
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+#EXTINF:-1 ,CCTV 央视台球
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
+#EXTINF:-1 ,CCTV 风云剧场
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
+#EXTINF:-1 ,CCTV 第一剧场
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
+#EXTINF:-1 ,CCTV 怀旧剧场
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+#EXTINF:-1 ,CCTV 风云音乐
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
+#EXTINF:-1 ,CCTV 女性时尚
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+#EXTINF:-1 ,CCTV 兵器科技
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
+#EXTINF:-1 ,CCTV 世界地理
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+#EXTINF:-1 ,CCTV 央视文化精品
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+#EXTINF:-1 ,第1财经
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
+#EXTINF:-1 ,4K 测试
+http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 #EXTINF:-1 ,4K 修复
 http://223.110.244.88/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
+#EXTINF:-1 ,CCTV4K 超高清
+http://223.110.244.68/ott.js.chinamobile.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,欢笑剧场 4K
 http://223.110.244.66/ott.js.chinamobile.com/TVOD/3/224/3221228429/index.m3u8
 #EXTINF:-1 ,CCTV-16奥林匹克 4K
 http://223.110.244.88/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
 #EXTINF:-1 ,4K UHD
 http://223.110.244.88/ott.js.chinamobile.com/TVOD/3/224/3221228165/index.m3u8
-
-
