@@ -34,8 +34,6 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/
 http://223.110.241.150:6610/gitv/live1/G_CCTV-17-HD/G_CCTV-17-HD
 #EXTINF:-1 ,CCTV-5+体育赛事
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-#EXTINF:-1 ,CCTV 4K超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 ,CGTN 中国国际电视台
 http://223.110.241.150:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
 #EXTINF:-1 ,安徽卫视
@@ -126,7 +124,7 @@ http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/
 http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3/
 #EXTINF:-1 ,CETV-4
 http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4/
-#EXTINF:-1 ,BRTV冬奥纪实
+#EXTINF:-1 ,BRTV纪实科教
 http://223.110.241.150:6610/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 #EXTINF:-1 ,置业频道
 http://223.110.241.150:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
@@ -134,10 +132,6 @@ http://223.110.241.150:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
 http://223.110.241.150:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
 #EXTINF:-1 ,老故事
 http://223.110.241.150:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:-1 ,女性时尚
-http://223.110.241.150:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
-#EXTINF:-1 ,家庭理财
-http://223.110.241.150:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
 #EXTINF:-1 ,京视剧场
 http://223.110.241.150:6610/gitv/live1/G_JINGJU/G_JINGJU/
 #EXTINF:-1 ,china陶瓷
