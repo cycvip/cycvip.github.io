@@ -256,15 +256,17 @@ http://ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/TVOD/3/224/3221228530/index.m3u8
 #EXTINF:-1 ,第1财经
 http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
+#EXTINF:-1 ,小电视
+http://ott.mobaibox.com/PLTV/4/224/3221228454/index.m3u8
 #EXTINF:-1 ,4K 测试
-http://39.134.18.65:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 #EXTINF:-1 ,4K 修复
 http://ott.mobaibox.com/TVOD/3/224/3221228141/index.m3u8
-#EXTINF:-1 ,CCTV4K 超高清
+#EXTINF:-1 ,4K UHD
 http://ott.mobaibox.com/TVOD/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,欢笑剧场 4K
 http://ott.mobaibox.com/TVOD/3/224/3221228429/index.m3u8
 #EXTINF:-1 ,CCTV-16奥林匹克 4K
 http://ott.mobaibox.com/TVOD/3/224/3221228168/index.m3u8
-#EXTINF:-1 ,4K UHD
+#EXTINF:-1 ,CCTV 8K超高清
 http://ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
