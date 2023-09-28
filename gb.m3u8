@@ -50,3 +50,49 @@ http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 #EXTINF:-1 ,江苏故事广播
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 ,北京交通广播
+https://cnlive.cnr.cn/hls/bjjtgb.m3u8
+#EXTINF:-1 ,北京音乐广播
+https://cnlive.cnr.cn/hls/bjyygb.m3u8
+#EXTINF:-1 ,上海东方广播电台
+http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 ,浙江悦动之音
+http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+#EXTINF:-1 ,浙江之声
+http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+#EXTINF:-1 ,浙江交通之声
+http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 ,河北音乐广播
+http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+#EXTINF:-1 ,内蒙古音乐之声
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 ,黑龙江音乐广播
+http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+#EXTINF:-1 ,福建音乐广播
+http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+#EXTINF:-1 ,江西音乐广播
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+#EXTINF:-1 ,山东音乐广播
+http://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+#EXTINF:-1 ,湖北经典音乐广播
+http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+#EXTINF:-1 ,湖南年代音乐台
+http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 ,广东音乐之声
+http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+#EXTINF:-1 ,海南音乐广播
+http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+#EXTINF:-1 ,重庆音乐广播
+http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 ,四川岷江音乐频率
+http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+#EXTINF:-1 ,贵州音乐广播
+http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+#EXTINF:-1 ,贵州故事广播
+http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+#EXTINF:-1 ,云南音乐广播
+http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+#EXTINF:-1 ,陕西音乐广播
+http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 ,青海交通音乐广播
+http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
