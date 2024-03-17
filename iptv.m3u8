@@ -1,5 +1,5 @@
 #EXTINF:-1 ,CCTV-1综合
-http://ott.mobaibox.com/TVOD/3/224/3221227634/index.m3u8
+http://ott.mobaibox.com/TVOD/3/224/3221227375/index.m3u8
 #EXTINF:-1 ,CCTV-2财经
 http://ott.mobaibox.com/TVOD/3/224/3221227696/index.m3u8
 #EXTINF:-1 ,CCTV-3综艺
@@ -7,11 +7,11 @@ http://ott.mobaibox.com/TVOD/3/224/3221227650/index.m3u8
 #EXTINF:-1 ,CCTV-4中文国际
 http://ott.mobaibox.com/TVOD/3/224/3221227658/index.m3u8
 #EXTINF:-1 ,CCTV-5体育
-http://ott.mobaibox.com/TVOD/3/224/3221227640/index.m3u8
+http://ott.mobaibox.com/TVOD/3/224/3221227298/index.m3u8
 #EXTINF:-1 ,CCTV-6电影
 http://ott.mobaibox.com/TVOD/3/224/3221227664/index.m3u8
 #EXTINF:-1 ,CCTV-7国防军事
-http://ott.mobaibox.com/TVOD/3/224/3221227642/index.m3u8
+http://ott.mobaibox.com/TVOD/3/224/3221227314/index.m3u8
 #EXTINF:-1 ,CCTV-8电视剧
 http://ott.mobaibox.com/TVOD/3/224/3221227667/index.m3u8
 #EXTINF:-1 ,CCTV-9纪录
@@ -43,7 +43,7 @@ http://ott.mobaibox.com/TVOD/3/224/3221227698/index.m3u8
 #EXTINF:-1 ,江苏卫视
 http://ott.mobaibox.com/TVOD/3/224/3221227649/index.m3u8
 #EXTINF:-1 ,北京卫视
-http://ott.mobaibox.com/TVOD/3/224/3221227652/index.m3u8
+http://ott.mobaibox.com/TVOD/3/224/3221227390/index.m3u8
 #EXTINF:-1 ,浙江卫视
 http://ott.mobaibox.com/TVOD/3/224/3221227692/index.m3u8
 #EXTINF:-1 ,东方卫视
@@ -63,7 +63,7 @@ http://ott.mobaibox.com/TVOD/3/224/3221227671/index.m3u8
 #EXTINF:-1 ,辽宁卫视
 http://ott.mobaibox.com/TVOD/3/224/3221227676/index.m3u8
 #EXTINF:-1 ,重庆卫视
-http://ott.mobaibox.com/TVOD/3/224/3221227632/index.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221227550/index.m3u8
 #EXTINF:-1 ,江西卫视
 http://ott.mobaibox.com/TVOD/3/224/3221228109/index.m3u8
 #EXTINF:-1 ,深圳卫视
@@ -138,7 +138,7 @@ http://ott.mobaibox.com/TVOD/3/224/3221227031/index.m3u8
 http://ott.mobaibox.com/TVOD/3/224/3221228513/index.m3u8
 #EXTINF:-1 ,重庆汽摩
 http://ott.mobaibox.com/TVOD/3/224/3221228701/index.m3u8
-#EXTINF:-1 ,环球观察
+#EXTINF:-1 ,环球奇观
 http://ott.mobaibox.com/TVOD/3/224/3221228695/index.m3u8
 #EXTINF:-1 ,中华美食
 http://ott.mobaibox.com/TVOD/3/224/3221227647/index.m3u8
